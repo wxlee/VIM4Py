@@ -10,7 +10,7 @@ set pastetoggle=<F2>
 set clipboard=unnamed
 
 " Use mouse
-set mouse=a
+"set mouse=a
 
 " Search highlight
 set hls
